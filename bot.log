@@ -1,0 +1,8 @@
+2025-02-01 19:15:25,274 - __main__ - INFO - Wallet initialized with address: 4EKQRfjQgvRxkqV5kgY9sLRtPkJG5WVSnrhgK77HCsXb
+2025-02-01 19:15:25,278 - __main__ - INFO - Backtest results: {'final_value': 10000, 'roi': 0.0, 'max_drawdown': 0, 'win_rate': 0}
+2025-02-01 19:28:20,542 - __main__ - INFO - Wallet initialized with address: 4EKQRfjQgvRxkqV5kgY9sLRtPkJG5WVSnrhgK77HCsXb
+2025-02-01 19:30:28,652 - __main__ - INFO - Initialized wallet for network: testnet
+2025-02-01 19:30:28,951 - httpx - INFO - HTTP Request: POST https://api.testnet.solana.com "HTTP/1.1 200 OK"
+2025-02-01 19:30:28,954 - __main__ - INFO - Testnet Balance: 0.0 SOL
+2025-02-01 19:30:59,244 - httpx - INFO - HTTP Request: POST https://api.testnet.solana.com "HTTP/1.1 200 OK"
+2025-02-01 19:30:59,248 - __main__ - INFO - Updated Balance: 0.0 SOL
